@@ -3,7 +3,7 @@
 This guides the users on how to contribute/use it
 
 ## 1) How to use:
-Just go to _____.com
+Just go to this [website](https://vinayakgaikwad101.github.io/ResumeBuilder/)
 
 
 ## 2) How to contribute:
